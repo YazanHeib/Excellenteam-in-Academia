@@ -1,2 +1,0 @@
-# Excellenteam In The Academia - Advanced C++
-Completed a practical course in C++ programming and Linux development. I started with basic Linux commands and the shell, then moved on to key C++ topics like templates, STL, threads, inheritance, and polymorphism. I learned how to use the Linux system to work with processes, threads, and communication between them, as well as how the file system works. The course also covered debugging, compiling, and making code run better. We used tools like GitHub and code review to practice real-world coding in a Linux environment.
